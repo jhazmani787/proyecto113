@@ -1,0 +1,99 @@
+*{
+	margin:0;
+}
+h2{
+	background-color:#B0E5F7;
+	color:#003EFD;
+}
+p{
+	background-color:#C3F3E8;
+	color: #000000;
+}
+img.las{
+  width: 250px;
+  height: 230px;
+}
+img.pequeña{
+  width: 350px;
+  height: 230px;
+}
+img.mediana{
+  width: 350px;
+  height: 230px;
+}
+img.cami{
+  width: 350px;
+  height: 230px;
+}
+p1{
+	background-color:red;
+}
+img.ta{
+  width: 320px;
+  height: 230px;
+}
+img.to{
+  width: 350px;
+  height: 230px;
+}
+img.ti{
+  width: 280px;
+  height: 230px;
+}
+img.te{
+  width: 250px;
+  height: 230px;
+}
+img.ra{
+  width: 320px;
+  height: 230px;
+}
+img.re{
+  width: 350px;
+  height: 230px;
+}
+img.ri{
+  width: 280px;
+  height: 230px;
+}
+img.ro{
+  width: 250px;
+  height: 230px;
+}
+img.ma{
+  width: 350px;
+  height: 230px;
+}
+img.mi{
+  width: 350px;
+  height: 230px;
+}
+img.me{
+  width: 300px;
+  height: 230px;
+}
+img.mo{
+  width: 280px;
+  height: 230px;
+}
+img.ba{
+  width: 350px;
+  height: 230px;
+}
+img.be{
+  width: 350px;
+  height: 230px;
+}
+img.bi{
+  width: 300px;
+  height: 230px;
+}
+img.bo{
+  width: 280px;
+  height: 230px;
+}
+a{
+	background-color:#0037FF;
+	color:#FFFFFF;
+	font: oblique bold 120% cursive;
+}

@@ -1,0 +1,16 @@
+*{
+	margin:0;
+}
+h1{
+	background-color:red ;
+	color: #151313;
+	font: oblique bold 190% cursive;
+}
+img.ro{
+  width: 280px;
+  height: 280px;
+}
+a{
+	color:#151313 ;
+	font: oblique bold 165% cursive;
+}

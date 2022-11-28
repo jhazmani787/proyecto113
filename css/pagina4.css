@@ -1,0 +1,16 @@
+*{
+	margin:0;
+}
+h1{
+	background-color:#31B918 ;
+	color: #FFFFFF;
+	font: oblique bold 190% cursive;
+}
+img.cu{
+  width: 280px;
+  height: 280px;
+}
+a{
+	color:#259730 ;
+	font: oblique bold 165% cursive;
+}

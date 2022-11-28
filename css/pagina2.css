@@ -1,0 +1,16 @@
+*{
+	margin:0;
+}
+h1{
+	background-color:#F371DB ;
+	color: #7D1DA1;
+	font: oblique bold 190% cursive;
+}
+img.be{
+  width: 280px;
+  height: 280px;
+}
+a{
+	color:#F371DB  ;
+	font: oblique bold 165% cursive;
+}
